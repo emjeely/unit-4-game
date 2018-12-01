@@ -1,0 +1,89 @@
+
+/* body, html {
+  height: 100%;
+  margin: 0;
+} */
+h1{
+  font-family: 'Lobster', cursive;
+font-family: 'Spicy Rice', cursive;
+font-family: 'Press Start 2P', cursive;
+  /* font-family: 'Lobster', cursive;
+  font-family: 'Spicy Rice', cursive; */
+
+  /* font-family: 'Lobster', cursive; */
+  color:#ffdb4d;
+  font-size:40px;
+  letter-spacing: 5px;
+}
+body{
+  background-image: url("../images/background5.png");
+  /* background-repeat: repeat-x;
+  /* width: 100%;
+  height:100%; */
+  background-size: cover;
+  font-family: 'Lobster', cursive;
+  font-family: 'Spicy Rice', cursive;
+  font-family: 'Press Start 2P', cursive;
+  font-family: 'Sarpanch', sans-serif;
+}
+
+.header{
+  margin-top: 8%;
+  text-align: center;
+  float:none;
+}
+
+.card{
+ text-align: center;
+ color:#ff02ff;
+ font-size:25px;
+ line-height: 2;
+ letter-spacing: 2px;
+ 
+}
+
+h3{
+  color:#ff80ff;
+  margin-top:5%;
+  font-size: 35px;
+
+}
+#blue{
+  color:blue;
+}
+
+#green{
+  color:green;
+}
+
+#red{
+  color:red;
+}
+
+#yellow{
+  color:yellow;
+}
+
+ol{
+  font-size: 20px;
+  list-style-type:none;
+}
+
+#cgame{
+  color:#ff8000;
+  text-align: center;
+}
+
+h2{
+  font-size:30px;
+}
+
+.gemImage{
+  margin:8px;
+  height:120px;
+  width:100px;
+}
+
+
+
+
